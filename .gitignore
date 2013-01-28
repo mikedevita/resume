@@ -1,0 +1,17 @@
+#######################
+# GLOBAL OSX Specific #
+#######################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+######################
+# Compass/scss files #
+######################
+.sass_cache/
+scss/
+config.rb
