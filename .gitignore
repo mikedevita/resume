@@ -12,6 +12,6 @@ Icon
 ######################
 # Compass/scss files #
 ######################
-.sass_cache/
+.sass_cache
 scss/
 config.rb
