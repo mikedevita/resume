@@ -15,3 +15,4 @@ Icon
 .sass_cache
 scss/
 config.rb
+*.scssc
